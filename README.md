@@ -5,6 +5,7 @@ A lightweight and professional **Art-Net DMX monitoring & viewing tool** develop
 🔗 Product page: [https://www.syncdconnect.com/syncd-artnet-monitor-viewer](https://www.syncdconnect.com/syncd-artnet-monitor-viewer)
 
 ---
+https://youtu.be/3u9SLRlNFL4?si=T-DOTcOCeC8_sZym
 
 ## 📸 Screenshot
 
