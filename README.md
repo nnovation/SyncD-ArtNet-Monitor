@@ -96,7 +96,7 @@ The SyncD ecosystem offers professional-grade tools for lighting, DMX, Art‑Net
 
 SyncD Art‑Net Recorder & Player
 Record live Art‑Net DMX data and play it back accurately for testing, rehearsals, and show reproduction.
-🔗More Info : [[[[https://www.syncdconnect.com/syncd-artnet-monitor-viewer](https://www.syncdconnect.com/syncd-artnet-monitor-viewer)](https://www.syncdconnect.com/syncd-softwares)](https://www.syncdconnect.com/syncd-pro)](https://www.syncdconnect.com/artnet-recorder-and-player)
+🔗More Info : https://www.syncdconnect.com/syncd-artnet-monitor-viewer
 
 SyncD Pro
 Advanced show control software with enhanced features for professionals, including automation‑ready workflows.
