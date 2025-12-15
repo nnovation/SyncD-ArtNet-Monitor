@@ -100,7 +100,7 @@ Record live Art‑Net DMX data and play it back accurately for testing, rehearsa
 
 SyncD Pro
 Advanced show control software with enhanced features for professionals, including automation‑ready workflows.
-🔗More Info : [[[[[https://www.syncdconnect.com/syncd-artnet-monitor-viewer](https://www.syncdconnect.com/syncd-artnet-monitor-viewer)](https://www.syncdconnect.com/syncd-softwares)](https://www.syncdconnect.com/syncd-pro)](https://www.syncdconnect.com/artnet-recorder-and-player)](https://www.syncdconnect.com/syncd-pro)
+🔗More Info : https://www.syncdconnect.com/syncd-pro
 
 SyncD Utilities & Tools
 Supporting tools for diagnostics, testing, and configuration in DMX & Art‑Net environments.
