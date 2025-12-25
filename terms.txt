@@ -1,0 +1,4 @@
+ArtNet Monitor does not collect, store, or share any personal data.
+The app works entirely on the local network to monitor Art-Net / DMX (UDP) data for diagnostic and monitoring purposes. No user information, analytics, tracking , or personally identifiable information is collected.
+The app does not require user accounts, login, or internet access.
+If you have questions about this privacy policy, please contact: info@syncdconnect.com
